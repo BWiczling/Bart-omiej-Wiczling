@@ -12,5 +12,7 @@ int main(){
     P=a*b;
     Obw=2*a+2*b;
     printf("Pole tego prostokata wynosi: %d\nNatomiast obwod: %d\n", P,Obw);
+    printf("zmiana\n\n\n");
+    
     return 0;
 }
